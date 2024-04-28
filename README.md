@@ -18,7 +18,7 @@ To use the pretrained models you need to do the following:
     ├── logs
     └── outputs
 ```
-2) Download the weights of the desired model from here (weights are being uploaded) and put it the checkpoints folder:
+2) Download the weights of the desired model from [here](https://drive.google.com/drive/folders/1KoOfM3NvJ_SGazWmA-Mp0V_n9q2Amj6V?usp=sharing) and put it the checkpoints folder:
 3) Rename the file to 'checkpoint_epoch=0.pt'
 4) Use the corresponding script from the examples bellow and remember to:
 * Replace the training/validation subjects with paths towards either folder filled with .nii.gz files or towards csv/tsv files that have a path column with the full paths towards the files.
