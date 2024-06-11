@@ -1,4 +1,4 @@
-# BrainSynth [![DOI](https://zenodo.org/badge/706209780.svg)](https://zenodo.org/doi/10.5281/zenodo.10014960)
+# BrainSynth [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11583061.svg)](https://doi.org/10.5281/zenodo.11583061)
 Official implementation of "Realistic Morphology-preserving Generative Modelling of the Brain"
 
 # Pretrained models
